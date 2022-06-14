@@ -1,0 +1,4 @@
+name: OuterWindsEasterEgg
+version: '${project.version}'
+main: com.ghostchu.outerwindseasteregg.OuterWindsEasterEgg
+api-version: 1.18
