@@ -1,6 +1,6 @@
 # OuterWindsEasterEgg
 
-RIA暑假活动服务器彩蛋。
+RIA 暑假活动 “欢迎来到 Xen 世界” 世界任务插件 （OuterWinds旋律彩蛋）
 
 ## 演奏
 
